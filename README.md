@@ -20,7 +20,7 @@ A Python-based automation pipeline designed to manage, secure, and standardize M
 ##  Installation
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
    cd your-repo-name
 ```
