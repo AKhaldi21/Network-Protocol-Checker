@@ -1,5 +1,5 @@
 Markdown
-# Network Infrastructure Automation & Compliance Toolkit
+# NetBox & MikroTik Infrastructure Automation Toolkit
 
 A Python-based automation pipeline designed to manage, secure, and standardize MikroTik RouterOS devices. This script integrates with NetBox as a Source of Truth (SoT) to dynamically discover active network infrastructure, perform state preservation (backups), and actively remediate security vulnerabilities.
 
